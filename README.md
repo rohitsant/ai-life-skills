@@ -1,6 +1,6 @@
 # ai-life-skills
 
-This vault will be a collection of skills I use with Claude Code to help improve my life in various ways. For best results I would recommend pairing this with an AI managed oObsidian vault. Right now I'm uploading just the summarize skill first and will update with the full vault setup soon. 
+This vault will be a collection of skills I use with Claude Code to help improve my life in various ways. For best results I would recommend pairing this with an AI managed Obsidian vault. Right now I'm uploading just the summarize skill first and will update with the full vault setup soon. 
 
 
 ## Skills
